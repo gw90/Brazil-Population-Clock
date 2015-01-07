@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+
+  "name": "Brazil Population",
+  "description": "This extension shows Brazil's Population grow.",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "contextMenus"
+  ]
+}
